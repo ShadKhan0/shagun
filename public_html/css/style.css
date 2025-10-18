@@ -994,6 +994,7 @@ select {
 	background-position: 95% 50%;
 	-webkit-appearance: none;
 	-moz-appearance: none;
+	appearance: none;
 }
 
 /*----------  Sharp border tippyjs theme  ----------*/
