@@ -8098,9 +8098,12 @@ margin: 0 auto;
 }
 .enq_quick {
     position: relative;
-    z-index: 9999;
+    z-index: 99;
 }
 .single-hero-slider__abs-img,
 .single-hero-slider__abs-img img {
     pointer-events: none;
+}
+.offcanvas-mobile-menu{
+	z-index: 9999!important;
 }
